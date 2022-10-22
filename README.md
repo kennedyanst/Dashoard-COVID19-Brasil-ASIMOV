@@ -4,4 +4,6 @@
 https://user-images.githubusercontent.com/90532605/197309812-6f143c96-7cec-49fa-a337-be7e1a5dfbd4.mp4
 ***
 https://user-images.githubusercontent.com/90532605/197309872-1af81c1f-c2eb-4b7a-8899-26a1340fa7ff.mp4
+***
 
+Fonte dos dados: https://covid.saude.gov.br/ | Dados até 12 de Junho de 2022. 
